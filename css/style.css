@@ -52,7 +52,7 @@ body {
   content: "";
   width: 40px;
   height: 7px;
-  background-color: #f1db25;
+  background-color: #9ccada;
   border-radius: 10px;
   position: absolute;
   bottom: 0;
@@ -378,7 +378,7 @@ a:focus {
 .slider_section .detail-box .btn-box .btn-2 {
   display: inline-block;
   padding: 10px 35px;
-  background-color: #f1db25;
+  background-color: #17244e;
   color: #ffffff;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -387,8 +387,8 @@ a:focus {
 
 .slider_section .detail-box .btn-box .btn-2:hover {
   background-color: transparent;
-  border-color: #f1db25;
-  color: #f1db25;
+  border-color: #9ccada;
+  color: #9ccada;
 }
 
 .slider_section .img-box {
@@ -677,7 +677,7 @@ a:focus {
 .contact_section .contact_form-container button {
   display: inline-block;
   padding: 10px 60px;
-  background-color: #f1db25;
+  background-color: #17244e;
   color: #ffffff;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -688,8 +688,8 @@ a:focus {
 
 .contact_section .contact_form-container button:hover {
   background-color: transparent;
-  border-color: #f1db25;
-  color: #f1db25;
+  border-color: #17244e;
+  color: #17244e;
 }
 
 .contact_bg_box {
@@ -776,7 +776,7 @@ a:focus {
 .team_section .btn-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #f1db25;
+  background-color: #17244e;
   color: #ffffff;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -785,8 +785,8 @@ a:focus {
 
 .team_section .btn-box a:hover {
   background-color: transparent;
-  border-color: #f1db25;
-  color: #f1db25;
+  border-color: #17244e;
+  color: #17244e;
 }
 
 .info_section {
@@ -872,7 +872,7 @@ a:focus {
   outline: none;
   border: none;
   color: #ffffff;
-  background: #f1db25;
+  background: #17244e;
   border-radius: 30px;
   margin-top: 15px;
   text-transform: uppercase;
