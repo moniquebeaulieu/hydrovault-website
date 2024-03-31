@@ -173,7 +173,7 @@ body {
 
 .header_top .contact_link-container a i {
   font-size: 20px;
-  color: #f1db25;
+  color: #17244e;
   margin-right: 5px;
 }
 
@@ -339,7 +339,7 @@ a:focus {
 }
 
 .slider_section .detail-box h1 span {
-  color: #f1db25;
+  color: #17244e;
 }
 
 .slider_section .detail-box p {
@@ -418,7 +418,7 @@ a:focus {
   height: 20px;
   border-radius: 100%;
   text-align: center;
-  background-color: #f1db25;
+  background-color: #17244e;
   opacity: 1;
   border: none;
   margin: 0 4px;
@@ -454,7 +454,7 @@ a:focus {
 .about_section .detail-box a {
   display: inline-block;
   padding: 10px 35px;
-  background-color: #f1db25;
+  background-color: #17244e;
   color: #ffffff;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -464,8 +464,8 @@ a:focus {
 
 .about_section .detail-box a:hover {
   background-color: transparent;
-  border-color: #f1db25;
-  color: #f1db25;
+  border-color: #17244e;
+  color: #17244e;
 }
 
 .service_section {
@@ -505,7 +505,7 @@ a:focus {
 .service_section .box .detail-box a {
   display: inline-block;
   padding: 8px 35px;
-  background-color: #f1db25;
+  background-color: #17244e;
   color: #ffffff;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -515,8 +515,8 @@ a:focus {
 
 .service_section .box .detail-box a:hover {
   background-color: transparent;
-  border-color: #f1db25;
-  color: #f1db25;
+  border-color: #17244e;
+  color: #17244e;
 }
 
 .client_section {
@@ -601,7 +601,7 @@ a:focus {
 
 .client_section .carousel-control-prev:hover,
 .client_section .carousel-control-next:hover {
-  background-color: #f1db25;
+  background-color: #17244e;
 }
 
 .client_section .carousel-control-prev {
