@@ -845,8 +845,8 @@ a:focus {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+      -ms-flex-direction: normal;
+          flex-direction: normal;
 }
 
 .info_section .info_contact a {
